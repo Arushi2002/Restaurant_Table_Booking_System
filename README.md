@@ -3,6 +3,7 @@
 Created an app for restraurant reservations using streamlit and MySQL.
 
 This project consists of UI in which customers can –
+
 • View the vacant tables in a restaurant.
 
 • See reviews of the selected restaurant which will help the customer in deciding which restaurant to book a table in.
